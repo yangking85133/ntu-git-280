@@ -14,4 +14,6 @@ yangking85133
 
 My Favorite 3 Programming Languages
 --------------------------------
-php JavaScript html
+- php 
+- JavaScript 
+- html
